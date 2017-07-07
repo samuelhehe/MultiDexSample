@@ -2,8 +2,8 @@
 layout: post
 title: Android 低版本 multidex 65536 异步加载
 category: 技术
-tags: [android 6.0 exception ]
-keywords:  Android6.0 apache entity exception 
+tags: [android multidex 65536 ]
+keywords:  Android multidex 65536 asyncload exception 
 description: Android 低版本 multidex 65536 异步加载 ANR
 ---
 
